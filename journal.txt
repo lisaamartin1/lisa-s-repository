@@ -3,7 +3,8 @@ Title: Programming for Dummies
 
 Abstract: Some text goes here.
 
-Introduction: 
-Data: 
+Introduction: This story goes a little bit like this.  
+Data: e=mc sq
 Analysis:
 Discussion:
+References:
