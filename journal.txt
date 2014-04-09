@@ -6,5 +6,5 @@ Abstract: Some text goes here.
 Introduction: This story goes a little bit like this.  
 Data: e=mc sq
 Analysis:
-Discussion:
+Discussion: This is where the discussion would go. 
 References:
